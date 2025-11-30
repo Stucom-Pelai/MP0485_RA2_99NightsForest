@@ -88,28 +88,6 @@ The forest’s danger grows with each passing day.
 
 ---
 
-## 🧠 Design Notes
-
-* **Single-class Java 8 structure** using only static methods — ideal for learning procedural design before OOP.
-* Demonstrates:
-
-  * `switch-case` logic
-  * `Random` for probability-driven outcomes
-  * Game state management with variables
-  * Basic console UI and pacing (`Thread.sleep`)
-
----
-
-## 🧩 Room Escape Version Ideas
-
-If adapting this for a **Room Escape** theme:
-
-* Replace **nights** with **rooms** or **stages** (e.g., *“Room 1: The Campfire”*).
-* Each “action” becomes an escape puzzle (e.g., “Build fire” → “Solve a wiring puzzle”).
-* “Craft signal” becomes the **final escape mechanism** once all clues are found.
-* Add a scoring system or inventory (keys, maps, artifacts).
-
----
 
 ## 📜 License
 
